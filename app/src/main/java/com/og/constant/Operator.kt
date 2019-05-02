@@ -1,4 +1,4 @@
-package com.example.constant
+package com.og.constant
 
 enum class Operator (val value : String, val label : String) {
     /**
